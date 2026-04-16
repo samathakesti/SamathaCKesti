@@ -5,7 +5,7 @@
 🚀 Currently working on: AI Thumbnail Generator & MIMO Antenna Array  
 📫 How to reach me: samathakesti@gmail.com  
 
-![Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=Samathakesti&show_icons=true&theme=tokyonight)
 
 ---
 
