@@ -48,7 +48,6 @@
 
 ![AI Thumbnail Generator](https://img.shields.io/badge/Project-AI_Thumbnail_Generator-red?style=for-the-badge)
 ![MIMO Antenna Array](https://img.shields.io/badge/Project-MIMO_Antenna_Array-blueviolet?style=for-the-badge)
-![OpenAI API](https://img.shields.io/badge/OpenAI-API-lightgrey?style=for-the-badge)
 ![Full Stack](https://img.shields.io/badge/FullStack-Project-green?style=for-the-badge)
 
 ---
