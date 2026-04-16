@@ -1,7 +1,7 @@
 # Hi 👋, I'm Samatha C Kesti
 
 🎓 3rd Year ECE Student  
-💡 Passionate about AI, Full Stack Development & Embedded Systems  
+💡 Passionate about Java, AI, Full Stack Development & Embedded Systems  
 🚀 Currently working on: AI Thumbnail Generator & MIMO Antenna Array  
 📫 How to reach me: samathakesti@gmail.com  
 
